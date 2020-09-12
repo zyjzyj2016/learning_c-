@@ -1,0 +1,4 @@
+﻿  permute.cpp
+e:\learning_c-\permute\permute\permute.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+e:\learning_c-\permute\permute\permute.cpp(40): warning C4018: '<' : signed/unsigned mismatch
+  permute.vcxproj -> E:\learning_c-\permute\Debug\permute.exe
